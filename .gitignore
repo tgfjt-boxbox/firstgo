@@ -1,0 +1,7 @@
+*~
+*.pyc
+
+gopath/pkg
+gopath/src
+
+.envrc
